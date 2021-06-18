@@ -1,0 +1,18 @@
+name: flutter_avatars_bottts
+description: Flutter Avatar - Bottts (high performance svg avatars rendering widget)
+version: 1.0.3
+homepage: https://github.com/AbhijatSaxena/flutter_avatars_bottts/blob/master/README.md
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^0.22.0
+  random_color: ^1.0.6-nullsafety
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
